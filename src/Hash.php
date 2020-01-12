@@ -9,7 +9,7 @@
 // | Author: yunwuxin <448901948@qq.com>
 // +----------------------------------------------------------------------
 
-namespace r_helper;
+namespace ruansuccess\helper;
 
 
 class Hash

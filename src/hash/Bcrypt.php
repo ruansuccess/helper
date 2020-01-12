@@ -8,7 +8,7 @@
 // +----------------------------------------------------------------------
 // | Author: yunwuxin <448901948@qq.com>
 // +----------------------------------------------------------------------
-namespace r_helper\hash;
+namespace ruansuccess\helper\hash;
 
 class Bcrypt
 {
