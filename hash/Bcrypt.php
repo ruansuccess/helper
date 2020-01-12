@@ -12,7 +12,6 @@ namespace r_helper\hash;
 
 class Bcrypt
 {
-
     /**
      * Default crypt cost factor.
      *
