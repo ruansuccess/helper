@@ -1,0 +1,18 @@
+{
+    "name": "ruansuccess/helper",
+    "description": "这是一个thinkphp相关的方法",
+    "type": "think-extend",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "ruansuccess",
+            "email": "ruansuccess@163.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "helper\\": "src"
+        },
+    }
+}
