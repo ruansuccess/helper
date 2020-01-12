@@ -36,7 +36,7 @@ class Hash
             }
         }
         if (empty(self::$handle[$type])) {
-            $class = "\\r_helper\\hash\\" . ucfirst($type);
+            $class = "\\ruansuccess\\helper\\hash\\" . ucfirst($type);
             if (!class_exists($class)) {
                 throw new \ErrorException("Not found {$type} hash type!");
             }
